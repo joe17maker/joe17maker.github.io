@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>设计模式 - 标签 - Joe的个人博客</title>
+        <link>http://joe17maker.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+        <description>设计模式 - 标签 - Joe的个人博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 14 Sep 2022 16:40:17 &#43;0800</lastBuildDate><atom:link href="http://joe17maker.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/" rel="self" type="application/rss+xml" /><item>
+    <title>单例模式</title>
+    <link>http://joe17maker.github.io/posts/singleton_pattern/</link>
+    <pubDate>Wed, 14 Sep 2022 16:40:17 &#43;0800</pubDate><author>
+        <name>Joe</name>
+    </author><guid>http://joe17maker.github.io/posts/singleton_pattern/</guid>
+    <description><![CDATA[单例模式只允许创建一个对象，因此节省内存，加快对象访问速度，因此对象需要被公用的场合适合使用，如多个模块使用同一个数据源连接对象等等。如： 需]]></description>
+</item></channel>
+</rss>

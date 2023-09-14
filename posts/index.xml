@@ -9,6 +9,13 @@
     <pubDate>Tue, 30 May 2023 15:00:36 &#43;0800</pubDate><author>
         <name>Joe</name>
     </author><guid>http://joe17maker.github.io/posts/first_post/</guid>
-    <description><![CDATA[第一篇博客 注意 啦啦啦啦啦 标题哈哈哈哈哈 testtest test test]]></description>
+    <description><![CDATA[第一篇博客 注意 啦啦啦啦啦 标题哈哈哈哈哈111 1 2 3 4 2 3 2 2 2 2 2 附件二欧文覅 附件二欧韦杰夫 附件二欧锦 附件二哦i及 百度 testtest test test]]></description>
+</item><item>
+    <title>单例模式</title>
+    <link>http://joe17maker.github.io/posts/singleton_pattern/</link>
+    <pubDate>Wed, 14 Sep 2022 16:40:17 &#43;0800</pubDate><author>
+        <name>Joe</name>
+    </author><guid>http://joe17maker.github.io/posts/singleton_pattern/</guid>
+    <description><![CDATA[单例模式只允许创建一个对象，因此节省内存，加快对象访问速度，因此对象需要被公用的场合适合使用，如多个模块使用同一个数据源连接对象等等。如： 需]]></description>
 </item></channel>
 </rss>
