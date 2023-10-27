@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>多线程 - 标签 - Joe的个人博客</title>
+        <link>http://joe17maker.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+        <description>多线程 - 标签 - Joe的个人博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 14 Aug 2022 10:40:10 &#43;0800</lastBuildDate><atom:link href="http://joe17maker.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>java中的锁</title>
+    <link>http://joe17maker.github.io/posts/%E5%A4%9A%E7%BA%BF%E7%A8%8B/concurrency/</link>
+    <pubDate>Sun, 14 Aug 2022 10:40:10 &#43;0800</pubDate><author>
+        <name>Joe</name>
+    </author><guid>http://joe17maker.github.io/posts/%E5%A4%9A%E7%BA%BF%E7%A8%8B/concurrency/</guid>
+    <description><![CDATA[synchronizedsynchronized是java虚拟机层面实现的锁, 一般的使用： synchronized (lock) { // while() { lock.wait(); } // lock.notify();//lock.notifyAll(); } 在写一个程序时报错，java]]></description>
+</item></channel>
+</rss>
